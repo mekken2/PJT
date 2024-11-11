@@ -1,0 +1,8 @@
+dash
+yfinance
+pandas
+numpy
+scikit-learn
+plotly
+gunicorn
+lxml
